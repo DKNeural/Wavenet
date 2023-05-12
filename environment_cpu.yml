@@ -1,0 +1,34 @@
+# File: environment.yml
+# Created Date: Saturday February 13th 2021
+# Author: Steven Atkinson (steven@atkinson.mn)
+
+name: nam
+channels:
+  - conda-forge # pytest-mock
+  - pytorch
+dependencies:
+  - black
+  - flake8
+  - h5py
+  - jupyter
+  - matplotlib
+  - numpy
+  - pip
+  - pydantic
+  - pytest
+  - pytest-mock
+  - pytorch
+  - scipy
+  - semver
+  - tensorboard
+  - tqdm
+  - wheel
+  - pip:
+      - auraloss==0.3.0
+      - onnx
+      - onnxruntime
+      - pre-commit
+      - pytorch_lightning
+      - sounddevice
+      - wavio
+      - -e .
