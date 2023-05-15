@@ -25,12 +25,12 @@ requirements = [
 ]
 
 setup(
-    name="neural-amp-modeler",
+    name="wavenet-training",
     version=main_ns["__version__"],
-    description="Neural amp modeler",
-    author="Steven Atkinson",
-    author_email="steven@atkinson.mn",
-    url="https://github.com/sdatkinson/",
+    description="Wavenet Training",
+    author="Dede Korkut",
+    author_email="dkanalogpedal@gmail.com",
+    url="https://github.com/DKNeural/",
     install_requires=requirements,
     packages=find_packages(),
     include_package_data=True,
