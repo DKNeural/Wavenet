@@ -1,7 +1,3 @@
-# File: setup.py
-# Created Date: 2020-04-08
-# Author: Steven Atkinson (steven@atkinson.mn)
-
 from distutils.util import convert_path
 from setuptools import setup, find_packages
 
