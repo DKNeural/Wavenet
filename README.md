@@ -2,7 +2,7 @@
 
 [DKNeural Wavenet Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_wavenet.ipynb)
 
-[DKNeural Wavenet 8 Channel Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_wavenet.ipynb)
+[DKNeural Wavenet 8 Channel Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_wavenet_8ch.ipynb)
 
 [DKNeural LSTM Hidden 12 Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_lstm_hidden12_layer3.ipynb)
 
