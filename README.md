@@ -1,8 +1,19 @@
 # NAM: neural amp modeler
 
-[DKNeural Wavenet Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/93631b9971688fbeaf7f9eef7902d50d80e66ab0/bin/train/DKNeural_colab.ipynb)
+[DKNeural Wavenet Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_wavenet.ipynb)
 
-[DKNeural on Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/93631b9971688fbeaf7f9eef7902d50d80e66ab0/bin/train/DKNeural_colab.ipynb)
+[DKNeural Wavenet 8 Channel Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_wavenet.ipynb)
+
+[DKNeural LSTM Hidden 12 Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_lstm_hidden12_layer3.ipynb)
+
+[DKNeural LSTM Hidden 24 Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_lstm_hidden24_layer3.ipynb)
+
+[DKNeural LSTM Hidden 40 Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_lstm_hidden40_layer3.ipynb)
+
+[DKNeural ConvNet Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/4a7677ae1c54ab886464639c58187f8df2aab7c7/bin/train/colab_convnet.ipynb)
+
+
+
 
 This repository handles training, reamping, and exporting the weights of a model.
 For playing trained models in real time in a standalone application or plugin, see the partner repo,
