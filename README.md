@@ -1,5 +1,7 @@
 # NAM: neural amp modeler
 
+[DKNeural Wavenet Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/93631b9971688fbeaf7f9eef7902d50d80e66ab0/bin/train/DKNeural_colab.ipynb)
+
 [DKNeural on Google Colab](https://colab.research.google.com/github/DKNeural/Wavenet/blob/93631b9971688fbeaf7f9eef7902d50d80e66ab0/bin/train/DKNeural_colab.ipynb)
 
 This repository handles training, reamping, and exporting the weights of a model.
